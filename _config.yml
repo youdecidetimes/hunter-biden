@@ -22,7 +22,7 @@ url: "hunter-biden" # the base hostname & protocol for your site, e.g. http://ex
 twitter_username: youdecidetimes
 github_username: youdecidetimes
 
-#theme: bulma-clean-theme
+theme: chrisrhymes/bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 
 # Build settings
