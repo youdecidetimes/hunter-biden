@@ -17,8 +17,8 @@ title: Hunter's Emails
 email: youdecidetimes@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Learn about Hunter's complicated business and personal life
-baseurl: "https://youdecidetimes.github.io/" # the subpath of your site, e.g. /blog
-url: "hunter-biden" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/hunter-biden" # the subpath of your site, e.g. /blog
+url: "https://youdecidetimes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: youdecidetimes
 github_username: youdecidetimes
 
